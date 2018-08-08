@@ -21,8 +21,6 @@ import java.nio.file.Paths;
 
 public class LuceneDemo {
 
-     * 写入索引库
-     */
     @Test
     public void indexWriter() throws Exception {
 //        设置索引库地址
