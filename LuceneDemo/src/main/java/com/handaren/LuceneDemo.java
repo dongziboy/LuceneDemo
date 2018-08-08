@@ -22,6 +22,9 @@ import java.nio.file.Paths;
 public class LuceneDemo {
 
     /**
+     * 我是变化
+     */
+    /**
      * 写入索引库
      */
     @Test
